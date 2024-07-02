@@ -6,7 +6,7 @@ Main documents a core code for Lords Of Legend
 - Project Name: Lords of Legend
 -  Game URL: play.lordsoflegend.xyz
 - Description: A DeFi game on the blockchain where players engage in epic battles, earn rewards, and trade NFTs.
-- Objectives of Game Play:
+2.  Objectives of Game Play:
  
 Basics of Game play
 The game will be to build bases
@@ -17,11 +17,43 @@ Metal – To build troops
 Platinum – Research resource
 Gold – Research resource
  
- Special unique character attacks 
- Time Manipulation Grants abilities that affect the flow of time, such as slowing enemies or speeding up allies.
+3.  Unique army attributes for each side
+
+United Worlds (Zions and Nebulons)
+ 
+ Zion (Humans) Skills
+1. Technician Mastery: Improves the efficiency of technology and machinery. Upgrades can reduce resource consumption and increase output.
+2. Combat Training: Enhances physical combat abilities. Upgrades can improve accuracy, damage, and critical hit chances.
+3. Diplomacy: Increases the ability to negotiate and form alliances. Upgrades can reduce conflict and improve trade deals.
+4. Medic Expertise: Improves healing abilities and reduces recovery times for injured allies. Upgrades can increase the effectiveness of medical supplies and techniques.
+5. Engineering Genius: Enhances the ability to build and repair structures quickly. Upgrades can increase construction speed and structural integrity.
+ 
+ Nebulon (Aliens) Skills
+1. Telepathy: Allows communication without words and can read enemy intentions. Upgrades can extend the range and depth of communication.
+2. Regeneration: Enables faster recovery from injuries. Upgrades can enhance the speed and extent of regeneration.
+3. Elemental Control: Manipulates natural elements like fire, water, earth, and air. Upgrades can increase control, range, and power.
+4. Cloaking: Provides the ability to become invisible for short periods. Upgrades can extend the duration and reduce detection chances.
+5. Psionic Blast: Releases a powerful mental attack. Upgrades can increase damage, range, and area of effect.
+ 
+ Rebels (Zions and Nebulons)
+ 
+ Zion (Humans) Skills
+1. Stealth Operations: Enhances the ability to move undetected. Upgrades can improve stealth duration and reduce noise.
+2. Demolitions Expert: Increases proficiency with explosives. Upgrades can enhance blast radius, damage, and the ability to disarm traps.
+3. Survivalist: Improves the ability to find and utilize resources in hostile environments. Upgrades can increase resource gathering efficiency and survival skills.
+4. Tactical Command: Enhances strategic planning and execution in combat. Upgrades can improve squad cohesion, morale, and tactical advantages.
+5. Hacker: Increases ability to infiltrate and control enemy systems. Upgrades can extend hacking range, reduce detection, and increase control over enemy tech.
+ 
+ Nebulon (Aliens) Skills
+1. Energy Absorption: Allows absorption of energy attacks to recharge and strengthen. Upgrades can increase absorption efficiency and energy storage.
+2. Shapeshifting: Enables changing appearance to blend in or deceive enemies. Upgrades can enhance the duration, complexity, and realism of transformations.
+3. Acid Spit: Projects corrosive acid to damage enemies and structures. Upgrades can increase range, potency, and area of effect.
+4. Mind Control: Temporarily takes control of enemy units. Upgrades can extend control duration, reduce resistance, and increase the number of controllable units.
+5. Adaptive Camouflage: Adjusts skin color and texture to blend into surroundings. Upgrades can improve camouflage effectiveness and response time to environmental changes.
+
 
  
-Research Enhancement Attributes
+4. Research Enhancement Attributes
 ARMY UPGRADES
 5 levels of Strength Training Increases the soldier's physical attack power 5% each level for total of 25%
 5 levels of Agility Drills Boosts the soldier's speed and evasion 5% each level for total of 25%
@@ -30,6 +62,8 @@ ARMY UPGRADES
 5 levels of  NAME_OF_SKILL 5% each level for total of 25%  
  Precision Training Increases the soldier's accuracy and critical hit chance.
 Healing Arts Enhances the soldier's ability to heal themselves and allies.
+
+
 VEHICLE UPGRADES ( Tank, Helicopter, bomber plane)  
 5 levels of  NAME_OF_SKILL 5% each level for total of 25%  
 5 levels of  NAME_OF_SKILL 5% each level for total of 25%  
@@ -47,21 +81,8 @@ FLYING VEHICLE UPGRADES
 5 levels of Fuel Efficiency - Each level improves fuel consumption by 5%, for a total of 25%, extending the vehicle's range and reducing refueling frequency. 
 5 levels of Maneuverability Enhancement - Each level improves the vehicle's agility by 5%, for a total of 25%, making it easier to perform sharp turns and evasive maneuvers. 
 5 levels of Armor Plating - Each level increases the vehicle's durability by 5%, for a total of 25%, providing better protection against damage and attacks.
- Specialized Shields Increases defense against specific types of attacks
-
-
  
- 
-
-
-
-
-Leadership Skills Enhances the soldier's ability to lead and boost the morale of allied troops.
-Reconnaissance Grants abilities that provide better scouting and intelligence gathering.
-Phantom Cloak Grants invisibility and other stealth-related abilities.
-Phoenix Feather Provides a resurrection ability, allowing soldiers to return to life once per battle.
- 
-2. Game Concept
+5. Game Concept
 - Game Mechanics:
   - Describe the core gameplay loop.
   - Outline the main features (battles, quests, trading).
@@ -70,7 +91,7 @@ Phoenix Feather Provides a resurrection ability, allowing soldiers to return to 
 - DeFi Features:
   - Detail the integration of DeFi elements (staking, yield farming, NFT marketplace).
  
-3. Technical Architecture
+6. Technical Architecture
 - Blockchain Platform: (e.g., Ethereum)
 - Smart Contracts:
   - List the key smart contracts needed (game logic, tokens, NFTs).
@@ -81,7 +102,7 @@ Phoenix Feather Provides a resurrection ability, allowing soldiers to return to 
   - Back-End: (e.g., Node.js, Django)
   - Blockchain Integration: (e.g., Web3.js, Ethers.js)
  
-4. Team Structure
+7. Team Structure & Positions
  
 # Project Manager
 Mark Geden
@@ -147,60 +168,5 @@ Mark Geden
   - Perform security testing on smart contracts.
   - Report and track bugs and issues.
  
-5. Development Phases
  
-# Phase 1: Conceptualization and Planning
-- Define game mechanics, story, and vision.
-- Create a detailed project roadmap and timeline.
- 
-# Phase 2: Technical Architecture Design
-- Design the system architecture.
-Need ideas 
-- Decide on the tech stack and blockchain platform.
-Tech stack need ideas 
-Platform: Egon Blockhain 
 
- 
-# Phase 3: Smart Contract Development
-- Write and test smart contracts.
-- Ensure security and optimization.
- 
-# Phase 4: Front-End and Back-End Development
-- Develop the user interface and server-side logic.
-- Integrate blockchain features.
- 
-# Phase 5: Integration and Testing
-- Integrate all components.
-- Conduct thorough testing and security audits.
- 
-# Phase 6: Deployment and Launch
-- Deploy smart contracts and game infrastructure.
-- Launch the game to the public.
- 
-# Phase 7: Marketing and Community Build
-Social media Accounts & handles 
-Telegram: @LordsOfLegend
-Facebook: @LordsOfLegend
-Twitter:@LordsOfLegend
-Instagram:@LordsOfLegend
-Linkedin:@LordsOfLegend
-Youtube:@LordsOfLegend
-Github:@LordsOfLegend
-Website: lordsoflegend.xyz
-- Promote the game and build a community.
-- Engage with players and gather feedback.
- 
- 6. Fundraising Strategy
-- Initial Coin Offering (ICO) or Initial DEX Offering (IDO): SYSMBOL LOL (EGC20)
-  - Create a whitepaper and issue a token.
-  - List the token on a decentralized exchange.
-- Grants and Accelerators:
-  - Apply for blockchain grants.
-  - Join accelerators for funding and mentorship.
-- Private Investors and Venture Capital:
-  - Pitch to private investors and venture capital firms.
-- Crowdfunding:
-  - Use platforms like Kickstarter or Indiegogo.
-  - Offer early access or exclusive content.
-- Partnerships:
-  - Partner with established projects or companies.
